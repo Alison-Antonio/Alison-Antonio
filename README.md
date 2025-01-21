@@ -14,12 +14,3 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="" target="_blank"><img src="" target="_blank"></a>
-  <a href="" target="_blank"><img src="" target="_blank"></a>
- <a href="" target="_blank"><img src="" target="_blank"></a> 
-  <a href = ""><img src="" target="_blank"></a>
-  <a href="" target="_blank"><img src="" target="_blank"></a>
-</div>
